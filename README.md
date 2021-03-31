@@ -1,10 +1,11 @@
-# mac-adress
-esp devkit
+# mac-address
+
+ESP DEVKIT
   auto (lisa)
   wifi (glen)
-  led (glen) :7C:9E:BD:EE:2E:A8
+  ledbar (glen)    - 7C:9E:BD:EE:2E:A8
 
-pcb
-  auto : 7C:9E:BD:2A:FB:F8
-  wifi
-  led
+PCB
+  auto             - 7C:9E:BD:2A:FB:F8
+  stralingslocatie - 
+  ledbar           - 7C:9E:BD:2A:FB:CC
